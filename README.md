@@ -26,10 +26,10 @@ brands using advanced SQL, automation, dashboards, and LLM-powered insight extra
 ---
 
 ## 🚀 Portfolio
-👉 Live Streamlit Portfolio: **(Add Streamlit Cloud URL here)**
+👉 Live Streamlit Portfolio: **(https://data-analyst-portfolio-ekq2z4q4erzhusayyo75xf.streamlit.app/)**
 
 ---
 
 ## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/rishana-abubacker-54045713b/
-- Email: rishanaabubacker.abc@gmail.com
+- Email: rishanaabubacker@gmail.com
